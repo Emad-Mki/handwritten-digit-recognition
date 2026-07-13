@@ -1,3 +1,5 @@
+// Developed and maintained by: ahmad_341668
+
 // Theme Toggle
 (function(){
   var t = document.querySelector('[data-theme-toggle]');
