@@ -51,11 +51,4 @@ python app.py            # Start the server
 4. Run CNN prediction on each crop
 5. Combine results into the full number
 
-## GitHub Contribution (Per Member)
-```bash
-git checkout -b feature/your-name
-# Make your changes
-git add . && git commit -m "feat: your contribution"
-git push origin feature/your-name
-# Open Pull Request on GitHub
-```
+
